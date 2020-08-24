@@ -12,8 +12,8 @@
 ## 阅读使用
 本书适用于对区块链技术感兴趣，且具备一定金融科技基础的读者；无技术背景的读者也可以从中了解到区块链技术的现状。
 
-* [GitBook 在线阅读](https://agzs.gitbook.io/blockchain_guide/)；
-* [GitHub 在线阅读](https://github.com/agzs/blockchain_guide/blob/master/SUMMARY.md)
+* [GitBook 在线阅读](https://agzs.gitbook.io/ebook-blockchain-guide/)
+* [GitHub 在线阅读](https://github.com/agzs/ebook_blockchain_guide/blob/master/SUMMARY.md)
 
 ## 参与贡献
 
